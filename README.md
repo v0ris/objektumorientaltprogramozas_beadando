@@ -1,0 +1,2 @@
+# objektumorientaltprogramozas_beadando
+Szállodai szobafoglaló alkalmazás
